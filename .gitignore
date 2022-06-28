@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VPMS/FileContentIndex
+/.vs/VPMS/v17
+/.vs/VPMS/config
+/VPMS.Api/.config
+/VPMS.Api/Properties/ServiceDependencies/ASPCore6AngularSample20220626214811 - Web Deploy/profile.arm.json
+/.vs
+/VPMSUI/.angular/cache/13.3.4
+/VPMSUI/.vscode
+/VPMS.Application/obj
+/VPMS.Domain/obj
+/VPMS.Infrastructure/obj
+/VPMS.Persistence/obj
+/VPMS.SharedKernel/obj
+/VPMS.Application/bin/Debug/net6.0
+/VPMS.Domain/bin/Debug/net6.0
+/VPMS.Infrastructure/bin/Debug/net6.0
+/VPMS.Persistence/bin/Debug/net6.0
+/VPMS.SharedKernel/bin/Debug/net6.0
+*.xml
+/VPMS.Application/bin/Release/net6.0
+/VPMS.Api/Logs
